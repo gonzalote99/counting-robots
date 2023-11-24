@@ -1,0 +1,57 @@
+body {
+  background-image: url('https://raw.githubusercontent.com/dtomazin/Counting-Robots/master/images/fire.jpg');
+  image-orientation: flip;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: auto;
+  background-color: black;
+
+}
+
+h1{
+  font-family: 'Staatliches', cursive;
+}
+
+#jumbo {
+  font-size: 80px;
+  padding-top: -20px;
+  border-top: 20%;
+}
+
+.container {
+  font-family: 'Staatliches', cursive;
+  font-size: 20px;
+}
+
+#robot1 {
+  margin-right: 50px;
+}
+#robot2 {
+  margin-right: 50px;
+}
+#robot3 {
+  margin-right: 50px;
+}
+#robot4 {
+  margin-right: 50px;
+}
+
+#targetScore {
+  font-size: 30px;
+}
+
+#yourScore {
+  font-size: 30px;
+}
+
+#winCount {
+  font-size: 30px;
+}
+
+#lossCount {
+  font-size: 30px;
+}
+
+#images {
+  margin-left: 40px;
+}
